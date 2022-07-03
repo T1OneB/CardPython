@@ -1,8 +1,9 @@
-Script by T1OneB (Pavel)
+😎 Script by T1OneB (Pavel)
 And this is script only for people understand Russian...
-I am from Russia, and my English very very bad :(
 
-Before executing the script,
+🇷🇺 I am from Russia, and my English very very bad :(
+
+💻Before executing the script,
 install the following plugins:
 
 1. Colorama
@@ -10,4 +11,5 @@ install the following plugins:
 3. OS
 4. Random
 
-And then run the script with the command: python card.py
+And then run the script with the command:
+***python card.py***
